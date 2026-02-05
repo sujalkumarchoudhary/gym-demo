@@ -34,5 +34,5 @@ You can view the live version of this demo project here: [Insert Demo Link If Ap
 ### Contact Us
 
 *   **Website:** [takhos.com](https://takhos.com)
-*   **Email:** [Insert Contact Email]
+*   **Email:** [contact@takhos.com](mailto:contact@takhos.com)
 *   **Services:** Web Development, Mobile Apps, UI/UX Design, Cloud Solutions.
