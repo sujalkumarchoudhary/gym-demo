@@ -27,7 +27,9 @@ Visit us at: [takhos.com](https://takhos.com)
 
 ## 🌐 Live Demo
 
-You can view the live version of this demo project here: [Insert Demo Link If Applicable]
+You can view the live version of this demo project here: [https://gym-demo.takhos.com/](https://gym-demo.takhos.com/)
+
+##
 
 ---
 
